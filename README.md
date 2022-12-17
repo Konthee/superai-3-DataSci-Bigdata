@@ -61,3 +61,5 @@ function to train the model in "best accuracy" mode. The auto_stack and hyperpar
 ##### Note that the "best accuracy" mode may take longer to train the model, as it will perform a more thorough search for the optimal hyperparameters and ensemble methods. However, this can often lead to better results and higher accuracy.
 
 
+## Note
+You can find more information and examples in the AutoGluon documentation (https://auto.gluon.ai/stable/index.html).
